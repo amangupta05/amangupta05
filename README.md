@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">A passionate Machine learning Engineer </h3>
 
-- 🌱 I’m currently learning **Deep Learning, MLOPs, NLP**
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Deep learning** **NLP** **AutoEncoder** **Transformers** **LLM** 
 
 - 📫 How to reach me **amangupta52001@gmail.com**
 
