@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Multimodal Unsupervised Learning with VAEs**
 
-- 🌱 I’m actively learning **Transformers** and **Large Language Models (LLM)**
+- 🌱 I’m actively learning **Transformers**, **Large Language Models (LLM)**, **LangChain**, and **Computer Vision**
 
-- 💬 Ask me about **Deep Learning**, **NLP**, **AutoEncoder**, **Transformers**, **LLMs**, **Data Engineering**
+- 💬 Ask me about **Deep Learning**, **NLP**, **AutoEncoders**, **Transformers**, **LLMs**, **Data Engineering**, **LangChain**, **Computer Vision**
 
 - 📫 How to reach me **amangupta52001@gmail.com**
 
