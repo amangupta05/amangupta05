@@ -15,9 +15,6 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo" src="/api/placeholder/400/400" />
-  </div>
-  <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Aman;Welcome+to+My+GitHub+Profile;ML+Engineer+%26+AI+Enthusiast;AWS+%26+Azure+Certified;Python+%26+PyTorch+Expert;LangChain+%26+AI+Agents;Always+Learning%2C+Always+Growing" alt="Typing SVG" /></a>
   </div>
 </div>
@@ -161,6 +158,4 @@ If you have any questions about Machine Learning, AI Agents, or LLMs, feel free 
 </div>
 
 ------
-Credit: [amangupta05](https://github.com/amangupta05)
 
-Last Edited on: 20/01/2024
