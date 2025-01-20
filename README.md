@@ -87,7 +87,7 @@
 
 ### 💻 **Let’s Collaborate!**
 Have an exciting idea? Let’s bring it to life!  
-👉 Check out my portfolio: **[Portfolio Link]([#](https://amangupta05.github.io/portfolio/))**  
+👉 Check out my portfolio: **[Portfolio Link](https://amangupta05.github.io/portfolio/)**  
 👉 Reach me at **[amangupta52001@gmail.com](mailto:amangupta52001@gmail.com)**
 
 <p align="center">
