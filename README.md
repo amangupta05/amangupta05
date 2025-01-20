@@ -22,19 +22,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,gcp,azure,kubernetes,docker,sql,mysql,mongodb,git,linux,react" alt="Skills" />
 </p>
 
----
 
-### 🌟 **Showcase Projects**
-<p align="center">
-  <a href="https://github.com/amangupta05/AI-Summit-New-York">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangupta05&repo=AI-Summit-New-York&theme=radical" alt="AI Interactive Learning Framework" />
-  </a>
-  <a href="https://github.com/amangupta05/IntelliRescue-AI-Framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangupta05&repo=IntelliRescue-AI-Framework&theme=radical" alt="Decentralized Emergency Response System" />
-  </a>
-</p>
-
----
 
 ### ✨ **Stats and Highlights**
 
