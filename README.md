@@ -27,7 +27,7 @@
 ### ✨ **Stats and Highlights**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=amangupta05&theme=radical" alt="GitHub Streak Stats" />
+   <img src="https://streak-stats.demolab.com/?user=amangupta05&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=amangupta05&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta05&theme=radical" alt="Profile Details" />
 </p>
