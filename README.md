@@ -90,6 +90,4 @@ Have an exciting idea? Let’s bring it to life!
 👉 Check out my portfolio: **[Portfolio Link](https://amangupta05.github.io/portfolio/)**  
 👉 Reach me at **[amangupta52001@gmail.com](mailto:amangupta52001@gmail.com)**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/YlSR3n7uuxZCw/giphy.gif" width="300" alt="Collaboration GIF">
-</p>
+
