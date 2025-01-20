@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=500&lines=Machine+Learning+Engineer+🚀;Generative+AI+Specialist+🧠;Cloud+AI+Enthusiast+☁️;Lifelong+Learner+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=500&lines=Machine+Learning+Engineer+%F0%9F%9A%80;Generative+AI+Specialist+%F0%9F%A7%A0;Cloud+AI+Enthusiast+%E2%98%81%EF%B8%8F;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,6 +38,13 @@
 - 🌌 Building autonomous **Agentic AI systems** for real-world applications.  
 - 🤖 Large Language Models (LLMs) like **GPT-4** and **Llama 3**.  
 - 🌟 Scalable AI pipelines using **AWS SageMaker** and **Azure ML**.  
+
+---
+
+## 🎵 Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+</p>
 
 ---
 
