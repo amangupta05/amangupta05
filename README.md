@@ -27,7 +27,7 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amangupta05&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amangupta05&show_icons=true&theme=radical&count_private=true&hide=issues,prs" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta05&theme=radical" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amangupta05&theme=radical" alt="Most Used Languages" />
 </p>
