@@ -27,7 +27,7 @@
 ### ✨ **Stats and Highlights**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta05&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=amangupta05&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=amangupta05&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta05&theme=radical" alt="Profile Details" />
 </p>
@@ -59,24 +59,14 @@
 
 ### 🔗 **Dynamic Sections**
 
-#### 👀 **Visitor Counter**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amangupta05&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
 
 #### 📊 **Contribution Graph**
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=amangupta05&theme=github&bg_color=0D1117&color=F85D7F&line=FFFFFF&point=F85D7F" alt="Contribution Graph" />
 </p>
 
----
 
-### 🎉 **Fun Animation**
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="400" alt="Working Animation">
-</p>
 
----
 
 ### 💡 **Quote of the Day**
 <p align="center">
