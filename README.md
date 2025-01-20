@@ -39,10 +39,6 @@
 
 ---
 
-## 🌟 Fun Additions
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default&bar_color_cover=false" alt="Now Playing" />
-</p>
 
 ---
 
