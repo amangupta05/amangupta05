@@ -11,9 +11,9 @@
 ---
 
 ## 🌟 About Me  
-- 🧠 Passionate **ML Engineer** focused on **Generative AI**, **Cloud AI Solutions**, and **Data Engineering**.  
-- 🔭 Love creating intelligent systems and contributing to **open-source**.  
-- 💡 Exploring cutting-edge **Generative AI** and **LLMs** like GPT-4.  
+- 🧠 Passionate **ML Engineer** specializing in **Generative AI**, **Agentic AI**, and **Data Engineering**.  
+- 🔭 Love building intelligent **autonomous AI agents** that can reason, learn, and act independently.  
+- 💡 Exploring cutting-edge AI technologies like **LLMs**, **transformers**, and **multi-agent systems**.  
 - ✉️ **[Email Me](mailto:amangupta52001@gmail.com)** to collaborate or chat!  
 
 ---
@@ -35,15 +35,13 @@
 ---
 
 ## 🚀 Currently Exploring
-- 🌌 Building Generative AI apps with **LangChain** and **Transformers**  
-- 🤖 Large Language Models (LLMs) like **GPT-4** and **Llama 3**  
-- 🌟 Scalable AI pipelines using **AWS SageMaker** and **Azure ML**  
+- 🌌 Building autonomous **Agentic AI systems** for real-world applications.  
+- 🤖 Large Language Models (LLMs) like **GPT-4** and **Llama 3**.  
+- 🌟 Scalable AI pipelines using **AWS SageMaker** and **Azure ML**.  
 
 ---
 
 
-
----
 
 ## 💻 Let’s Collaborate!  
 🎯 Have an exciting idea? Let’s bring it to life!  
