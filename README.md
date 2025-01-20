@@ -1,79 +1,107 @@
-<h1 align="center">Hi 👋, I'm Aman Gupta</h1>
-<h3 align="center">Machine Learning Engineer | Generative AI Specialist | Cloud AI Expert</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+  Hi, I'm Aman Gupta 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=600&lines=🔍+Exploring+AI+and+ML;🚀+Building+Intelligent+Solutions;🌟+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=500&lines=ML+Engineer+🚀;Generative+AI+Specialist+🧠;Cloud+AI+Expert+☁️;Lifelong+Learner+📚" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 **Skills at a Glance**
+### 🎨 **About Me**
+🌟 I’m a passionate **Machine Learning Engineer** with expertise in **Generative AI**, **Cloud AI Solutions**, and **Data Engineering**.  
+🔭 I love building intelligent systems, contributing to open-source projects, and solving real-world problems with AI.  
+📫 **[Email Me](mailto:amangupta52001@gmail.com)** to collaborate or just say hi!
 
+---
+
+### 🛠️ **My Toolbox**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,azure,gcp,docker,kubernetes,sql,mysql,mongodb,git,linux,react" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,aws,gcp,azure,kubernetes,docker,sql,mysql,mongodb,git,linux,react" alt="Skills" />
 </p>
 
 ---
 
-### 🌟 **What I Do**
-
+### 🌟 **Showcase Projects**
 <p align="center">
-  <img src="https://github.com/amangupta05/assets/blob/main/whatido.png" alt="What I Do Chart" />
+  <a href="https://github.com/amangupta05/AI-Summit-New-York">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangupta05&repo=AI-Summit-New-York&theme=radical" alt="AI Interactive Learning Framework" />
+  </a>
+  <a href="https://github.com/amangupta05/IntelliRescue-AI-Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amangupta05&repo=IntelliRescue-AI-Framework&theme=radical" alt="Decentralized Emergency Response System" />
+  </a>
 </p>
 
 ---
 
-### 🚀 **Featured Projects**
-
-#### 🔗 [AI Interactive Learning Framework](https://github.com/amangupta05/AI-Summit-New-York)  
-> **Tech Stack:** Python, Fetch.AI, Claude API, OpenAI  
-> **Description:** Developed an adaptive learning platform with multi-agent systems and emotional intelligence assessments.
-
-#### 🔗 [Decentralized Emergency Response System](https://github.com/amangupta05/IntelliRescue-AI-Framework)  
-> **Tech Stack:** Python, Flask, LangChain, React  
-> **Description:** Built a decentralized system improving emergency response efficiency by 30%.
-
-#### 🔗 Generative AI Research (MMVAE)
-> **Tech Stack:** PyTorch, GPU-Acceleration  
-> **Description:** Enhanced Multi-Modal Variational Autoencoders (MMVAEs) with 95% accuracy on multi-modal datasets.
-
----
-
-### 📊 **GitHub Overview**
+### ✨ **Stats and Highlights**
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta05&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=amangupta05&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta05&theme=radical" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amangupta05&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amangupta05&theme=radical" alt="Profile Details" />
 </p>
 
 ---
 
-### 🛠️ **Toolbox**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,keras,huggingface,scikitlearn,docker,kubernetes,airflow,aws,azure,gcp,postgresql,mysql,mongodb" alt="Toolbox" />
-</p>
+### 🚀 **Currently Exploring**
+- Generative AI with **LangChain** and **Transformers**  
+- Large Language Models (LLMs) like GPT-4 and Llama 3  
+- Building scalable AI pipelines using **AWS SageMaker** and **Azure ML**
 
 ---
 
-### 🌐 **Connect with Me**
+### 🎯 **Call-to-Action**
 
 <p align="center">
   <a href="https://linkedin.com/in/aman-gupta5" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:amangupta52001@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/amangupta05" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
-### ✍️ **Quote to Inspire**
+### 🔗 **Dynamic Sections**
+
+#### 👀 **Visitor Counter**
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://komarev.com/ghpvc/?username=amangupta05&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+#### 📊 **Contribution Graph**
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=amangupta05&theme=github&bg_color=0D1117&color=F85D7F&line=FFFFFF&point=F85D7F" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🎉 **Fun Animation**
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="400" alt="Working Animation">
+</p>
+
+---
+
+### 💡 **Quote of the Day**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
+</p>
+
+---
+
+### 💻 **Let’s Collaborate!**
+Have an exciting idea? Let’s bring it to life!  
+👉 Check out my portfolio: **[Portfolio Link](#)**  
+👉 Reach me at **[amangupta52001@gmail.com](mailto:amangupta52001@gmail.com)**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/YlSR3n7uuxZCw/giphy.gif" width="300" alt="Collaboration GIF">
 </p>
