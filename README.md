@@ -180,7 +180,10 @@ If you have any questions about Machine Learning, AI Agents, or LLMs, feel free 
 </details>
 
 </details>
-
+### - Languages 🔭
+<p align="center" >
+  <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta05&&show_icons=true&theme=dracula&text_color=8b8b8b&bg_color=0000&hide_border=true&layout=compact&custom_title=Languages%20I%20Use&langs_count=8" alt="proxzima"/></a>
+</p>
 ```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~              ✨ Thank you for visiting! Stay curious and keep learning! ✨              ~
