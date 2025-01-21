@@ -7,7 +7,41 @@
 
 <div align="center">
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================================================================
+||                           Aman Gupta: ML Engineer                         ||
+||                         Multi-Agent Orchestration                         ||
+===============================================================================
+
+                         +---------------------------------+
+                         |          Tools & Skills         |
+                         | Python | PyTorch | SQL | AWS    |
+                         | Azure  | R       | etc.         |
+                         +------------------+--------------+
+                                            |
+                                            v
+                +-------------------------------------------------+
+                |              Orchestrator (Aman)                |
+                |   Coordinates tasks among multiple specialized  |
+                |   agents, ensuring end-to-end ML pipelines      |
+                +--------------------------+-----------------------+
+                                       |
+            -------------------------------------------------------------
+            |                           |                           |
+            v                           v                           v
+  +------------------------+   +------------------------+   +------------------------+
+  |       Data Agent       |   |      Model Agent       |   |       DevOps Agent     |
+  | (Ingest, Preprocess)   |   |  (Train, Fine-tune)    |   |  (Deploy, Scale, MLOps)|
+  +-----------+------------+   +-----------+------------+   +-----------+------------+
+              |                        |                            |
+              v                        v                            v
+        +-----------+          +-----------+                +--------------+
+        |    SQL    |          | PyTorch   |                | AWS / Azure  |
+        +-----------+          +-----------+                +--------------+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
 <details>
 <summary>Open profile</summary>
@@ -147,7 +181,13 @@ If you have any questions about Machine Learning, AI Agents, or LLMs, feel free 
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~                                                                   ~
+~                          End of Profile                          ~
+~                                                                   ~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
 </div>
 
@@ -158,4 +198,3 @@ If you have any questions about Machine Learning, AI Agents, or LLMs, feel free 
 </div>
 
 ------
-
