@@ -10,37 +10,20 @@
 ```
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ===============================================================================
-||                           Aman Gupta: ML Engineer                         ||
-||                     AI Agents | Multi-Agent Systems | LLMs               ||
+||                           Aman Gupta: Data Engineer                         ||
+||         Cloud-Native Data Platforms | Real-Time Analytics | DevOps-Driven      ||
 ===============================================================================
 
-                         +---------------------------------+
-                         |          Tools & Skills        |
-                         | Python | PyTorch | SQL | C++  |
-                         | AWS    | Azure   | R  | MLOps |
-                         +------------------+-------------+
-                                            |
-                                            v
-                +-------------------------------------------------+
-                |              Orchestrator (Aman)                |
-                |   Coordinates tasks among multiple specialized  |
-                |   agents, ensuring end-to-end ML pipelines      |
-                +--------------------------+-----------------------+
-                                       |
-            -------------------------------------------------------------
-            |                           |                           |
-            v                           v                           v
-  +------------------------+   +------------------------+   +------------------------+
-  |       Data Agent       |   |      Model Agent       |   |       DevOps Agent     |
-  | (Ingest, Preprocess)   |   |  (Train, Fine-tune)    |   |  (Deploy, Scale, MLOps)|
-  +-----------+------------+   +-----------+------------+   +-----------+------------+
-              |                        |                            |
-              v                        v                            v
-        +-----------+          +-----------+                +--------------+
-        |    SQL    |          | PyTorch   |                | AWS / Azure  |
-        +-----------+          +-----------+                +--------------+
+                      +------------------------------------------------+
+                      |               Core Competencies                |
+                      |  ETL Pipelines   |   Data Warehousing            |
+                      |  Cloud (AWS/GCP) |   Big Data (Spark, Kafka)       |
+                      |  IaC (Terraform)|   CI/CD & Automation          |
+                      +------------------------------------------------+
 
+            Transforming raw data into actionable insights with precision and speed!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ```
 ## Portfolio
 Check out my portfolio: [amangupta47.vercel.app](https://amangupta47.vercel.app/)
@@ -62,17 +45,18 @@ Check out my portfolio: [amangupta47.vercel.app](https://amangupta47.vercel.app/
 
 ```js
 /**
- * Represents me.
- * @constructor
- * @param {string} location - New York, NY, United States.
- * @param {string} languages - English, Hindi.
- * @param {string} specialization - AI Agents, LLMs, and ML Systems.
- * @param {string} interests - LangChain, AutoGen, Multi-Agent Systems.
- * @param {string} education - MS in Machine Learning, Stevens Institute of Technology.
- * @param {string} certifications - AWS Data Engineering, Microsoft AI Engineer.
- * @param {string} expertise - Task Automation, GraphRAG, Multi-Modal ML.
- * @throws {Error} When encountering bugs in production.
- * @returns {Object} Aman - A passionate ML engineer.
+ * Aman Gupta - Data Engineer
+ * ---------------------------------------------
+ * Location: New York, NY, United States
+ * Expertise: Designing and operating enterprise-grade data platforms
+ *            with cloud-native architectures on AWS, GCP, and Azure.
+ *
+ * Certifications:
+ *   - AWS Certified Data Engineering Associate (Dec 2024)
+ *   - Microsoft Certified AI Engineer Associate (Oct 2024)
+ *
+ * Passionate about building reliable data pipelines,
+ * Optimizing performance, and enabling real-time analytics.
  */
 ```
 
