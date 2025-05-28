@@ -78,6 +78,6 @@ _Versatile engineer with 3+ years building scalable, fault-tolerant systems in A
 
 - 🔗 [Portfolio](https://amangupta47.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-gupta5/)  
-- 📧 <a href="mailto:amangupta5170846@gmail.com">amangupta5170846@gmail.com</a>  
+- 📧 <a href="mailto:aman@gmail.com">aman5170846@gmail.com</a>  
 
 Feel free to reach out for collaborations on backend systems, cloud-native data platforms, or AI/ML integrations!
